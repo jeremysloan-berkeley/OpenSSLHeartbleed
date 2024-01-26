@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker build -t openssl_heartbleed:latest .
